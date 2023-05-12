@@ -1,10 +1,11 @@
 {
-    "name": "nwidart/theme",
+    "name": "yezzdesign/theme",
+    "type": "laravel-module",
     "description": "",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Christian Scholz",
+            "email": "yezz.design@schodie.de"
         }
     ],
     "extra": {
